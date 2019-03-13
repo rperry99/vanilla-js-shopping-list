@@ -1,6 +1,7 @@
 # vanilla-js-shopping-list
 
 - This was from Andrei Neagoie's Udemy course
+- In the course, jQuery was not taught yet, so I refrained from using it.
 
 ## What it does
 
